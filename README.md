@@ -49,3 +49,9 @@ loopbackの場合は自動的にバーチャルキャストの受信ポートに
 
 ### アドレスから/outsideを除く
 チェックされていた場合、転送する際にアドレス先頭に/outsideがあればそれを取り除いて転送します。
+## License
+[MIT License](https://github.com/teiron3/OSCTestServer/blob/main/LICENSE)
+## 外部参考リンク
+[バーチャルキャスト](https://virtualcast.jp/)
+
+[Open Sound Control 1.0仕様](http://veritas-vos-liberabit.com/trans/OSC/OSC-spec-1_0.html)
